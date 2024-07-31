@@ -1,10 +1,10 @@
-import { Telegraf, Markup } from 'telegraf'
+import { Telegraf, Eggs } from 'telegraf'
 import { message } from 'telegraf/filters'
 
-const token = '6908588510:AAGJ8Lhf_ItjNl9gQoCnK7IejRWQHWpPfiE'
-const webAppUrl = 'https://vk.com/'
+const token = 7449889863:AAE5Z9ItGyZdjbRlmqoQNHu7puJm0ZVr0Hk
+const webAppUrl = https://t.me/clickeggs
 
-const bot = new Telegraf(token)
+const bot = 7449889863:AAE5Z9ItGyZdjbRlmqoQNHu7puJm0ZVr0Hk
 
 bot.command('start', (ctx) => {
   ctx.reply(
